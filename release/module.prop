@@ -1,0 +1,6 @@
+id=enable_adb_root
+name=Enable ADB Root (ro.debuggable)
+version=v1.0
+versionCode=1
+author=JimmyXiao
+description=Set ro.debuggable=1 to enable direct adb root on this userdebug device
